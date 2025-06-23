@@ -3,7 +3,7 @@
 This project explores the key drivers of **employee attrition** at O-ZONE Telecom, a Capgemini client expanding operations in Africa. By combining clustering, PCA, and predictive modeling, the analysis offers actionable insights to improve workforce retention and guide strategic HR planning.
 
 📘 Final report: [`Capgemini_O-Zone Employee Attrition Data Project.pdf`](./Capgemini_O-Zone%20Employee%20Attrition%20Data%20Project.pdf)  
-💻 Notebook: [`Guest lecture Capgemini_Xuefei.ipynb`](./Guest%20lecture%20Capgemini_Xuefei.ipynb)
+💻 Notebook: [Capgemini | O-Zone Employee Attrition Data Project](https://github.com/xuefeiwang001/Capgemini_O-Zone_Employee_Attrition/blob/6e85ee1d4d2102b389d811140750758ec883e6fe/Capgemini%20%7C%20O-Zone%20Employee%20Attrition%20Data%20Project))
 
 ---
 
