@@ -77,7 +77,7 @@ This project explores the key drivers of **employee attrition** at O-ZONE Teleco
 ## 🚀 How to Run
 
 # Clone the repo
-git clone https://github.com/xuefeiwang001/Capgemini_O-Zone_Employee_Attrition.git  <br>
+git clone https://github.com/xuefeiwang001/Capgemini_O-Zone_Employee_Attrition.git <br>
 cd o-zone-attrition-analysis
 
 # Install necessary libraries
